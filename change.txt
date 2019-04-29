@@ -33,3 +33,4 @@ Updater (Installer only):
 * WinGup (for Notepad++) v5.1
 这句话是我增加的内容
 I add some words again
+I changed it second time.
